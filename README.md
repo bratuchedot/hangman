@@ -13,4 +13,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Preview
 
-![image](https://user-images.githubusercontent.com/66753915/204062232-33c6d085-4126-4e26-bc12-18841ec50178.png)
+![hangman-app-photo](https://user-images.githubusercontent.com/66753915/204062296-0ab094e1-3bc7-40d6-9fdf-fb0547435751.png)
